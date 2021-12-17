@@ -1,6 +1,5 @@
 # CLIENT SIDE
 # Created By: Theo Gonzales
-# Project Name: PenTest Basic Programming | ine.com
 # Description: 
 # Vector: The SolGon Network
 
