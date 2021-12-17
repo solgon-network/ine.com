@@ -1,6 +1,5 @@
 # SERVER 
 # Created By: Theo Gonzales
-# Project Name: PenTest Basic Programming | ine.com
 # Description: Internal program that binds itself to a specific address
 #               and port and will listen for incoming TCP Communications.
 # Vector: The SolGon Network
