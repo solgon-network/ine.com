@@ -1,3 +1,5 @@
+# Created By Theo Gonzales <solgonsol@protonmail.com>
+#
 SRV_ADDR =  input('Server address(ip): ')
 SRV_PORT = input('Server port: ')
 
